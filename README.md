@@ -1,4 +1,9 @@
-### Hi there 👋
+### Seja bem vindo!
+
+Atualmente trabalho como freelancer no desenvolvimento de sites, aplicativos e backends. 
+
+[![Linkedin: washington](https://img.shields.io/badge/-Linkedin-000000?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/washingtonsr93/)](https://www.linkedin.com/in/washingtonsr93/)
+
 
 <!--
 **washington93/washington93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
