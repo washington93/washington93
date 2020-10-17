@@ -1,8 +1,31 @@
 ### Seja bem vindo!
 
-Atualmente trabalho como freelancer no desenvolvimento de sites, aplicativos e backends. 
+<table border="0">
+ <tr>
+    <td>
+      <p align="center">
+        <img src="https://phoneky.co.uk/thumbs/screensavers/down/fun/walkingwor_i1sk7k12.gif" alt="Walking words" width="500" />
+      </p>
+    </td>
+    <td>
+      <p align="justify">
+      Sou desenvolvedor fullstack e amo o mundo da tecnologia desde o tempo do super nintendo. </br>Embora tenha dedicado muitas horas em frente ao computador só comecei a programar em 2015 quando entrei na faculdade. Atualmente atuo como freelancer no desenvolvimento de sites e aplicativos procurando me especializar na stack MERN. Também tenho interesse em outras linguagens e tecnologias como C#, dotNet, Flutter, Go, Python.
+      </p>
+      
+  <p align="center">
+  <p>
+    
+  [![Linkedin: washington](https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=linkedin&logoColor=white&link)](https://www.linkedin.com/in/washingtonsr93/)
+[![Whatsapp: washington](https://img.shields.io/badge/-Whatsapp-075e54?style=flat-square&logo=whatsapp&logoColor=white&link)](https://api.whatsapp.com/send?phone=5584992140775)
+[![instagram: washington](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/washingtonsr2016/)
+[![instagram: washington](https://img.shields.io/badge/-Gmail-d44638?style=flat-square&logo=gmail&logoColor=white)](mailto:washington.s@escolar.ifrn.edu.br)
+[![instagram: washington](https://img.shields.io/badge/-Portif%C3%B3lio-000000?style=flat-square&logo=netlify&logoColor=white)](https://washingtonsr93.netlify.app/)
+    </p>
+    </td>
+ </tr>
+</table>
 
-[![Linkedin: washington](https://img.shields.io/badge/-Linkedin-000000?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/washingtonsr93/)](https://www.linkedin.com/in/washingtonsr93/)
+
 
 
 <!--
