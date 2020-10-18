@@ -24,7 +24,9 @@
     </td>
  </tr>
 </table>
-
+<a href="https://www.linkedin.com/in/washingtonsr93/" target="_blank">
+ <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=linkedin&logoColor=white"/>
+</a>
 
 
 
