@@ -15,21 +15,15 @@
   <p align="center">
   <p>
     
-  [![Linkedin: washington](https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=linkedin&logoColor=white&link)](https://www.linkedin.com/in/washingtonsr93/)
-[![Whatsapp: washington](https://img.shields.io/badge/-Whatsapp-075e54?style=flat-square&logo=whatsapp&logoColor=white&link)](https://api.whatsapp.com/send?phone=5584992140775)
+  [![Linkedin: washington](https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/washingtonsr93/)
+[![Whatsapp: washington](https://img.shields.io/badge/-Whatsapp-075e54?style=flat-square&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5584992140775)
 [![instagram: washington](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/washingtonsr2016/)
-[![instagram: washington](https://img.shields.io/badge/-Gmail-d44638?style=flat-square&logo=gmail&logoColor=white)](mailto:washington.s@escolar.ifrn.edu.br)
-[![instagram: washington](https://img.shields.io/badge/-Portif%C3%B3lio-000000?style=flat-square&logo=netlify&logoColor=white)](https://washingtonsr93.netlify.app/)
+[![gmail: washington](https://img.shields.io/badge/-Gmail-d44638?style=flat-square&logo=gmail&logoColor=white)](mailto:washington.s@escolar.ifrn.edu.br)
+[![site: washington](https://img.shields.io/badge/-Portif%C3%B3lio-000000?style=flat-square&logo=netlify&logoColor=white)](https://washingtonsr93.netlify.app/)
     </p>
     </td>
  </tr>
 </table>
-<a href="https://www.linkedin.com/in/washingtonsr93/" target="_blank">
- <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=linkedin&logoColor=white"/>
-</a>
-
-
-
 <!--
 **washington93/washington93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
