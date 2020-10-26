@@ -9,7 +9,7 @@
     </td>
     <td>
       <p align="justify">
-      Sou desenvolvedor fullstack e amo o mundo da tecnologia desde o tempo do super nintendo. </br>Embora tenha dedicado muitas horas em frente ao computador só comecei a programar em 2015 quando entrei na faculdade. Atualmente atuo como freelancer no desenvolvimento de sites e aplicativos procurando me especializar na stack MERN. Também tenho interesse em outras linguagens e tecnologias como C#, dotNet, Flutter, Go e Python.
+      Sou desenvolvedor fullstack e amo o mundo da tecnologia desde o tempo do super nintendo. </br>Embora tenha dedicado muitas horas em frente ao computador só comecei a programar em 2015 quando entrei na faculdade. Atualmente atuo como freelancer no desenvolvimento de sites e aplicativos e estou procurando me especializar na stack MERN. Também tenho interesse em outras linguagens e tecnologias como C#, dotNet, Flutter, Go e Python.
       </p>
       
   <p align="center">
