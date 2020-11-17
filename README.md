@@ -12,8 +12,7 @@
       Sou desenvolvedor fullstack e amo o mundo da tecnologia. </br>Embora tenha dedicado muitas horas em frente ao computador só comecei a programar em 2015 quando entrei na faculdade. Atualmente atuo como freelancer no desenvolvimento de sites e aplicativos. Estou me especializanado na stack MERN. Também tenho interesse em outras linguagens e tecnologias como C#, dotNet, Flutter, Angular, Go e Python.
       </p>
       
-  <p align="center">
-  <p>
+  
     
   [![Linkedin: washington](https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/washingtonsr93/)
 [![Whatsapp: washington](https://img.shields.io/badge/-Whatsapp-075e54?style=flat-square&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5584992140775)
@@ -24,6 +23,12 @@
     </td>
  </tr>
 </table>
+
+<!--
+<p align="center">
+![Washington93](https://github-readme-stats.vercel.app/api?username=washington93&show_icons=true&count_private=true&theme=graywhite)
+<p>
+-->
 <!--
 **washington93/washington93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
