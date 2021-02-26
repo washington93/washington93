@@ -8,7 +8,7 @@
     </td>
     <td>
       <p align="justify">
-      Sou desenvolvedor fullstack e amo o mundo da tecnologia. </br>Embora tenha dedicado muitas horas em frente ao computador só comecei a programar em 2015 quando entrei na faculdade. Atualmente atuo como freelancer no desenvolvimento de sites e aplicativos. Estou me especializanado em React-native, ReactJS e Angular. Também tenho interesse em outras linguagens e tecnologias como C#, dotNet, ML, Flutter, Go e Python.
+      Sou desenvolvedor fullstack e amo o mundo da tecnologia. </br>Embora tenha dedicado muitas horas em frente ao computador só comecei a programar em 2015 quando entrei na faculdade. Atualmente atuo como PJ no desenvolvimento de sites e aplicativos. Estou me especializanado em React-native, ReactJS e Angular. Também tenho interesse em outras linguagens e tecnologias como C#, dotNet, ML, Flutter, Go e Python.
       </p>
       
   
