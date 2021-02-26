@@ -22,7 +22,9 @@
     </td>
  </tr>
 </table>
-**Nota:** Aqui só coloco projetos pessoais e a nível de conhecimento.
+<p>
+<b>Nota:</b> Aqui só coloco projetos pessoais e a nível de conhecimento.
+</p>
 
 <!--
 <p align="center">
