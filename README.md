@@ -1,5 +1,4 @@
 ### Seja bem vindo!
-
 <table border="0">
  <tr>
     <td>
@@ -23,6 +22,7 @@
     </td>
  </tr>
 </table>
+**Nota:** Aqui só coloco projetos pessoais e a nível de conhecimento.
 
 <!--
 <p align="center">
