@@ -3,7 +3,7 @@
  <tr>
     <td>
       <p align="center">
-        <img src="https://phoneky.co.uk/thumbs/screensavers/down/fun/walkingwor_i1sk7k12.gif" alt="Walking words" width="500" />
+        <img src="https://phoneky.co.uk/thumbs/screensavers/down/fun/walkingwor_i1sk7k12.gif" alt="Walking words" width="100" />
       </p>
     </td>
     <td>
