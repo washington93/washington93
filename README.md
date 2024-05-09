@@ -22,9 +22,8 @@
     </td>
  </tr>
 </table>
-<p>
-<b>Nota:</b> Aqui só coloco projetos pessoais e a nível de conhecimento.
-</p>
+
+[![Washington wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@washington93&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 <p align="center">
