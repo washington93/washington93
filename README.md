@@ -23,8 +23,9 @@
  </tr>
 </table>
 
+<!--
 [![Washington wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@washington93&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
-
+-->
 <!--
 <p align="center">
 ![Washington93](https://github-readme-stats.vercel.app/api?username=washington93&show_icons=true&count_private=true&theme=graywhite)
